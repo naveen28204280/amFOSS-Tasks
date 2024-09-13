@@ -1,0 +1,4 @@
+Google API Key - AIzaSyA0rmJ8oxfyylSYZjtspyO2a7ggVjc41Dg
+Bot Token - 6975517932:AAFwFndSlKz5MCNf32t12LwCTDDFT4VtCc8
+Bot Name - pagepal_69_bot.py
+

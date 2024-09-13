@@ -1,0 +1,29 @@
+Part 1
+
+After opening terminal I used cd command to open Terminal-Chaos/Arrakis-dex. Then as per the README.md entered Eolian Caves which required   ' ' to open cuz of the space btw them
+At first I used cd and ls commands to slowly explore Entrance1 but then realized how slow and boring it was so I searched google for find and tree commands
+I read find command but had some trouble so watched a youtube video and then used it to find parchment.txt which I opened with cat
+After reading the parchment.txt I copied the code to Telegram Saved Messages and decided to make Handbook in the end
+
+Part 2
+
+I then used 'git branch -a' to find all branched and 'git checkout remotes/origin/The-Light-Realm' to enter the Light Realm
+This time rather than wasting time with cd and ls I immediately used grep command from google but 'grep -l' didn't work so I used 'grep -rl'
+I did it twice for Holy and Good but had some trouble since I used herbs that were in either instead of only those that were in both.
+After clarifying with senior I made the right spell (though I still had a lot of trouble with it for some reason)
+After finally making the spell, I killed KharnokTheBloodForged (for whom I searched using cd and ls, but atleast I started from Entrance3)
+I then took the Amulet and Lightbook and saved in telegram again
+
+Part 3
+
+After switching to Dark Realm I, I immediatly used grep to search for Darkbook and chest but couldn't find them and was tired and annoyed so I searched for a lot of weird stuff till grep suddenly worked on 'dark'. However it took me to some macDist and I couldn't find anything useful there so I explored slowly while leaving when I suddenly found chest1.py.
+I used Amulet to open chest then saved DarkbookI
+I searched for dark again in DarkrealmII and so found chest2.py as well and saved Darkbook2
+
+Part 4
+
+I just combined them all and used base64 solver as mentined in the resource and it worked and produced the Github link for the GodSuite
+
+Part 5
+
+It was actually the easiest of all the parts. I just entered the Godsuite then started going through all the commits in it until I saw the code in stage 3. I just decoded the base64 again and found the new URL then cloned the new repo and saw the final answer. Then just save all the codes in Handbook which is made using nano cmnd
